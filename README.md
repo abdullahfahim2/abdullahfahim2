@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 📫 How to reach me **aafahim4320@gmail.com**
+- 📫 Reach me **aafahim4320@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
