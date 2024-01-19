@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Abdullah Al Fahim</h1>
-<h3 align="center">A passionate Python developer from Bangladesh</h3>
+<h3 align="center">Trainer, Python Programming, Sheikh Russel School Of Future, DoICT , ICT Division, Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/abdullahfahim2/abdullahfahim2/blob/main/python-2.gif?raw=true">
 
