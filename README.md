@@ -1,24 +1,52 @@
-<h1 align="center">Hi 👋, I'm Md Abdullah Al Fahim</h1>
-<h3 align="center">Trainer, Python Programming, Sheikh Russel School Of Future, DoICT , ICT Division, Bangladesh</h3>
+<!-- Header -->
+<h1 align="center">👋 Hi there, I'm Md Abdullah Al Fahim</h1>
+<h3 align="center">Trainer,Python Programming,Sheikh Russel School Of Future,Dept of ICT,ICT Ministry,Bangladesh </h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/abdullahfahim2/abdullahfahim2/blob/main/python-2.gif?raw=true">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahfahim2&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahfahim2" /> </p>
-
-- 🌱 I’m currently learning **Django**
-
-- 📫 Reach me **aafahim4320@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/abdullah.fahim.507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah.fahim.507" height="30" width="40" /></a>
-<a href="https://instagram.com/abdullah_fahim20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah_fahim20" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdullahfahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullahfahim" height="30" width="40" /></a>
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://github.com/abdullahfahim2/abdullahfahim2/blob/main/python-2.gif?raw=true" alt="coding" width="400">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Introduction -->
+<p align="center">
+  Welcome to my GitHub profile! I'm Abdullah Fahim, passionate about Python and eager to share knowledge. Let's connect and innovate together!
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahfahim2&show_icons=true&locale=en" alt="abdullahfahim2" /></p>
+<!-- Contact Info -->
+<p align="center">
+  📫 Reach me: <a href="mailto:aafahim4320@gmail.com">aafahim4320@gmail.com</a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahfahim2&" alt="abdullahfahim2" /></p>
+<!-- Social Media Links -->
+<p align="center">
+  <a href="https://fb.com/abdullah.fahim.507" target="_blank"><img src="https://img.shields.io/badge/Facebook-abdullah.fahim.507-blue?style=for-the-badge&logo=facebook" alt="Facebook"></a>
+  <a href="https://instagram.com/abdullah_fahim20" target="_blank"><img src="https://img.shields.io/badge/Instagram-abdullah_fahim20-red?style=for-the-badge&logo=instagram" alt="Instagram"></a>
+  <a href="https://www.leetcode.com/abdullahfahim" target="_blank"><img src="https://img.shields.io/badge/LeetCode-abdullahfahim-brightgreen?style=for-the-badge&logo=leetcode" alt="LeetCode"></a>
+</p>
+
+<!-- Skills -->
+<h3 align="center">🛠️ Skills & Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
+
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahfahim2&show_icons=true&theme=vue" alt="Abdullah's GitHub Stats">
+</p>
+
+<!-- GitHub Streak Stats -->
+<h3 align="center">🔥 GitHub Streak Stats</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahfahim2&theme=vue" alt="Abdullah's GitHub Streak Stats">
+</p>
+
+
+<!-- Top Languages -->
+<h3 align="center">🌟 Top Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahfahim2&layout=compact&theme=vue" alt="Abdullah's Top Languages">
+</p>
