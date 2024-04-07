@@ -2,10 +2,16 @@
 <h1 align="center">👋 Hi there, I'm Md Abdullah Al Fahim</h1>
 <h3 align="center">Trainer,Python Programming,Sheikh Russel School Of Future,Dept of ICT,ICT Ministry,Bangladesh </h3>
 
-<!-- Profile Picture -->
+<!-- Picture -->
 <p align="center">
   <img src="https://github.com/abdullahfahim2/abdullahfahim2/blob/main/python-2.gif?raw=true" alt="coding" width="400">
 </p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullahfahim2&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views">
+</p>
+
 
 <!-- Introduction -->
 <p align="center">
