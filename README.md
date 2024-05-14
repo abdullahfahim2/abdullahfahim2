@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hi there, I'm Md Abdullah Al Fahim</h1>
-<h3 align="center">Trainer,Python Programming,Sheikh Russel School Of Future,Dept of ICT,ICT Ministry,Bangladesh </h3>
+<h3 align="center">Final Year CSE Student! </h3>
 
 <!-- Picture -->
 <p align="center">
