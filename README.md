@@ -15,7 +15,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  Welcome to my GitHub profile! I'm Abdullah Fahim, passionate about Python and eager to share knowledge. Let's connect and innovate together!
+  Welcome to my GitHub profile! I'm Md Abdullah Al Fahim, Passionate about Python and eager to share knowledge. Let's connect and innovate together!
 </p>
 
 <!-- Contact Info -->
