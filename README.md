@@ -20,7 +20,7 @@
 
 <!-- Contact Info -->
 <p align="center">
-  📫 Reach me: <a href="mailto:aafahim4320@gmail.com">aafahim4320@gmail.com</a>
+  📫 Reach me: <a href="mailto:abdullahfahim680578@gmail.com">abdullahfahim680578@gmail.com</a>
 </p>
 
 <!-- Social Media Links -->
