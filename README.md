@@ -20,15 +20,22 @@
 
 <!-- Contact Info -->
 <p align="center">
-  📫 Reach me: <a href="mailto:abdullahfahim680578@gmail.com">abdullahfahim.me@gmail.com</a>
+  📫 Reach me: <a href="mailto:abdullahfahim.me@gmail.com">abdullahfahim.me@gmail.com</a>
 </p>
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://fb.com/abdullah.fahim.507" target="_blank"><img src="https://img.shields.io/badge/Facebook-abdullah.fahim.507-blue?style=for-the-badge&logo=facebook" alt="Facebook"></a>
-  <a href="https://instagram.com/abdullah_fahim20" target="_blank"><img src="https://img.shields.io/badge/Instagram-abdullah_fahim20-red?style=for-the-badge&logo=instagram" alt="Instagram"></a>
-  <a href="https://www.leetcode.com/abdullahfahim" target="_blank"><img src="https://img.shields.io/badge/LeetCode-abdullahfahim-brightgreen?style=for-the-badge&logo=leetcode" alt="LeetCode"></a>
+  <a href="https://fb.com/sweabdullahfahim" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-abdullah.fahim.507-blue?style=for-the-badge&logo=facebook" alt="Facebook">
+  </a>
+  <a href="https://www.leetcode.com/abdullahfahim" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-abdullahfahim-brightgreen?style=for-the-badge&logo=leetcode" alt="LeetCode">
+  </a>
+  <a href="https://www.linkedin.com/in/swefahim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-swefahim-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
 </p>
+
 
 <!-- Skills -->
 <h3 align="center">🛠️ Skills & Tools</h3>
@@ -40,6 +47,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
