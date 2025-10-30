@@ -26,7 +26,7 @@
 <!-- Social Media Links -->
 <p align="center">
   <a href="https://fb.com/sweabdullahfahim" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-abdullah.fahim.507-blue?style=for-the-badge&logo=facebook" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-sweabdullahfahim-blue?style=for-the-badge&logo=facebook" alt="Facebook">
   </a>
   <a href="https://www.leetcode.com/abdullahfahim" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-abdullahfahim-brightgreen?style=for-the-badge&logo=leetcode" alt="LeetCode">
