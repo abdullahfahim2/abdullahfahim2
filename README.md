@@ -75,11 +75,6 @@ Git, GitHub, Render, Vercel , Pythonanywhere
   <img src="https://github-readme-stats.vercel.app/api?username=abdullahfahim2&show_icons=true&theme=vue" alt="Abdullah's GitHub Stats">
 </p>
 
-<!-- Optional Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahfahim2&theme=vue" alt="Abdullah's GitHub Streak Stats">
-</p> 
-
 
 ### 🌟 Top Languages
 
