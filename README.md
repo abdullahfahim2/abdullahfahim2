@@ -15,14 +15,14 @@
 
 ### 👨‍💻 About Me
 
-💼 I’m currently working at **<span style="color:#4CAF50; font-weight:bold;">Universe Soft Tech</span>** as a **<b>Full Stack Developer (Intern)</b>**, where I’m gaining hands-on experience in **building and deploying full-stack web applications** using **Django**, **React**, and **modern backend technologies**.
+💼 I’m currently working at **<span style="color:#4CAF50; font-weight:bold;">Universe Soft Tech</span>** as a **<b>Python Django Developer</b>**, where I’m gaining hands-on experience in **building and deploying full-stack web applications** using **Python**, **Django**, and **modern backend technologies**.
 
-I’m a **backend-focused software developer** passionate about creating **clean, efficient, and scalable systems** that solve real-world problems.  
+I’m a **backend-focused Web app developer** passionate about creating **clean, efficient, and scalable systems** that solve real-world problems.  
 I believe in writing **maintainable code** and following best practices in every project I work on.
 
 🧠 I’m currently exploring:
 - **Django REST Framework (DRF)** for building APIs  
-- **React & Tailwind CSS** for frontend development  
+- **Tailwind CSS** for frontend development  
 - **Automation & AI-integrated applications**
 
 🌱 I also love mentoring beginners and helping them start their journey in **Python and web development**.
