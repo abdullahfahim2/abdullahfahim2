@@ -69,20 +69,19 @@ Git, GitHub, Render, Vercel , Pythonanywhere
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullahfahim2&show_icons=true&theme=vue" alt="Abdullah's GitHub Stats">
-</p>
+</p> -->
 
 
-### 🌟 Top Languages
+<!-- ### 🌟 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahfahim2&layout=compact&theme=vue" alt="Abdullah's Top Languages">
-</p>
+</p> -->
 
----
 
 ### 🌐 Let's Connect
 
