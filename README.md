@@ -45,6 +45,31 @@ Git, GitHub, Render, Vercel , Pythonanywhere
 
 ---
 
+### Django Applications
+
+
+#### [Eranian - Multi-vendor Marketplace](https://eranian.com/)
+🏬 Multi-vendor e-commerce marketplace platform  
+**Technologies:** Django | MySQL | Bootstrap | JavaScript  
+**Key Features:**
+- Vendor registration and management
+- Independent vendor dashboards
+- Commission-based order system
+- Product listing and inventory control
+- Order tracking and fulfillment
+
+#### [European Consultancy - Travel Services](https://europeanconsultancybd.com/)
+✈️ Travel agency and consultancy services platform  
+**Technologies:** Django | MySQL | Bootstrap | JavaScript  
+**Key Features:**
+- Tour package management
+- Visa processing workflow
+- Online booking system
+- Customer inquiry management
+- Travel documentation handling
+
+---
+
 ### 🚀 Things I Code With
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
